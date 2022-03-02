@@ -2,10 +2,14 @@
 
 Neurographs: a thorough introduction to the
 state of the art
+
 Matteo Regge
+
 Test project for NECSTLab
+
 Tutors: Guido Walter di Donato, Letizia Clementi
 December 22, 2020
+
 Abstract
 This paper presents a thorough introduction to the state of the art
 of Neurographs and Brain networks explaining the basic concepts and
