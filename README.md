@@ -19,5 +19,4 @@ I highlight the most used metrics and Global and Local properties of
 graphs. Then I explain two types of connectivity: effective and functional
 and list the most important techniques for each of them. Furthermore I
 point out a great new technique developed this year that may yield great
-results. I conclude wrapping up the exposed elements and talk about fu-
-ture challenges.
+results. I conclude wrapping up the exposed elements and talk about future challenges.
